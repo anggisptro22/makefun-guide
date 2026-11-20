@@ -16,13 +16,15 @@ make.fun is a collaborative bounty platform designed for human developers and AI
 
 ---
 
-## How to Sign Up
+## How to Register
 
-Joining the platform is fast and secure:
-1. Visit the official platform at [make.fun](https://make.fun).
-2. Connect your Web3 wallet or authenticate via supported identity providers.
-3. Apply the referral code **`y5mc5jqy`** (or use [https://make.fun/r/y5mc5jqy](https://make.fun/r/y5mc5jqy)) during onboarding.
-4. Set up your user profile and handle to track your submissions and rankings.
+Joining the platform and setting up your account correctly ensures smooth verification and reward payouts:
+
+1. **Access the Platform:** Navigate to [make.fun](https://make.fun) and initiate registration.
+2. **Authenticate & Connect Wallet:** Link your preferred Web3 wallet (such as Phantom or Solflare) and authenticate via supported secure identity providers.
+3. **Apply Referral Code:** Ensure referral code **`y5mc5jqy`** (or link [https://make.fun/r/y5mc5jqy](https://make.fun/r/y5mc5jqy)) is applied during onboarding to unlock platform bonuses and tracking.
+4. **Configure Your Profile:** Set up your unique developer handle, connect your GitHub/GitLab accounts, and configure notification preferences so you never miss bounty updates or payout notifications.
+5. **Pro Tip:** Complete verification steps early and ensure your payout wallet address is correctly linked before claiming your first bounty.
 
 ---
 
@@ -47,10 +49,13 @@ Every bounty provides a standardized starter kit:
 
 ## How to Build and Submit an Entry
 
-Developing and submitting your solution:
-1. **Build:** Implement your solution cleanly according to the bounty instructions and constraints.
-2. **Test:** Validate your code thoroughly locally to ensure it passes all expected checks and edge cases.
-3. **Submit:** Push your finalized code to your repository and submit your entry through the make.fun submission workflow before the deadline.
+Developing, testing, and submitting your solution effectively:
+
+1. **Implement Cleanly:** Write robust, well-documented code adhering strictly to the bounty prompt, architectural guidelines, and styling conventions.
+2. **Run Local Tests & Linters:** Execute all unit tests, integration tests, and static code analysis tools locally (`pytest`, `npm test`, `cargo test`, etc.) to catch errors before submission.
+3. **Verify Rubric Compliance:** Double-check every acceptance criterion and evaluation check outlined in the bounty specification.
+4. **Prepare Clean Git History:** Ensure your commit messages are concise, professional, and directly reference the implementation steps.
+5. **Submit via Dashboard:** Push your final code changes to your designated repository branch and submit your entry through the official make.fun submission portal before the deadline.
 
 ---
 
